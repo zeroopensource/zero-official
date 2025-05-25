@@ -29,6 +29,18 @@ export const links: Link[] = [
     icon: '',
   },
   {
+    name: 'ZERO_HUGGINGFACE',
+    url: 'https://huggingface.co/ZeroOpenSource',
+    description: 'Explore our AI models and datasets on Hugging Face',
+    icon: '',
+  },
+  {
+    name: 'ZERO_YOUTUBE',
+    url: 'https://www.youtube.com/@ZeroOpenSource',
+    description: 'Watch our tutorials, project demos, and community highlights',
+    icon: '',
+  },
+  {
     name: 'ZERO_XTWITTER',
     url: 'https://x.com/ZeroOpenSource',
     description:
@@ -103,6 +115,13 @@ export const links: Link[] = [
     description: 'Show your support by buying us a coffee',
     icon: '',
   },
+  // {
+  //   name: 'ZERO_LINKTREE',
+  //   url: 'https://linktr.ee/zeroopensource',
+  //   description: 'Find all our important links and resources in one place',
+  //   icon: '',
+  //   disabled: true, // Duplicates our official links
+  // },
   // {
   //   name: 'ZERO_KOFI',
   //   url: 'https://ko-fi.com/zeroopensource',
