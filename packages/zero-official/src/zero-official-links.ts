@@ -55,7 +55,7 @@ export const ZERO_OFFICIAL_LINKS: { [key: string]: Link } = {
     url: 'https://www.linkedin.com/company/zeroopensource',
     description:
       'Follow our professional network for industry insights and opportunities',
-    icon: 'SiLinkedin',
+    icon: 'SiLinkedin', // https://github.com/simple-icons/simple-icons/pull/11380, https://github.com/badges/shields/issues/10999
   },
   ZERO_BLUESKY: {
     url: 'https://bsky.app/profile/zeroopensource.bsky.social',
