@@ -4,7 +4,7 @@ Welcome to the official resources for Zero Open Source. Explore our platforms an
 
 ---
 
-### ![icon](https://zeroopensource.org/favicon.ico) [Website](https://zeroopensource.org/)
+###  [ZeroOpenSource.org](https://zeroopensource.org/)
 
 Official website of Zero Open Source - Explore our projects and mission
 
@@ -22,7 +22,7 @@ Browse our open source repositories and contribute to our projects
 
 ---
 
-### ![Huggingface](https://img.shields.io/badge/Huggingface-000?style=flat&logo=Huggingface&logoColor=white) [Huggingface](https://huggingface.co/ZeroOpenSource)
+### ![Huggingface](https://img.shields.io/badge/Huggingface-000?style=flat&logo=Huggingface&logoColor=white) [Hugging Face](https://huggingface.co/ZeroOpenSource)
 
 Explore our AI models and datasets on Hugging Face
 
@@ -34,7 +34,7 @@ Watch our tutorials, project demos, and community highlights
 
 ---
 
-### ![X](https://img.shields.io/badge/X-000?style=flat&logo=X&logoColor=white) [Xtwitter](https://x.com/ZeroOpenSource)
+### ![X](https://img.shields.io/badge/X-000?style=flat&logo=X&logoColor=white) [X (Twitter)](https://x.com/ZeroOpenSource)
 
 Follow us on X (Twitter) for the latest updates and announcements
 
@@ -52,7 +52,7 @@ Join our Reddit community for discussions and project updates
 
 ---
 
-### ![Linkedin](https://img.shields.io/badge/Linkedin-000?style=flat&logo=Linkedin&logoColor=white) [Linkedin](https://www.linkedin.com/company/zeroopensource)
+### ![Linkedin](https://img.shields.io/badge/Linkedin-000?style=flat&logo=Linkedin&logoColor=white) [LinkedIn](https://www.linkedin.com/company/zeroopensource)
 
 Follow our professional network for industry insights and opportunities
 
@@ -76,13 +76,13 @@ Read our in-depth articles and technical blog posts
 
 ---
 
-### ![Devdotto](https://img.shields.io/badge/Devdotto-000?style=flat&logo=Devdotto&logoColor=white) [Devto](https://dev.to/zeroopensource)
+### ![Devdotto](https://img.shields.io/badge/Devdotto-000?style=flat&logo=Devdotto&logoColor=white) [Dev.to](https://dev.to/zeroopensource)
 
 Follow our developer-focused content and tutorials
 
 ---
 
-### ![Dailydotdev](https://img.shields.io/badge/Dailydotdev-000?style=flat&logo=Dailydotdev&logoColor=white) [Dailydev](https://app.daily.dev/zeroopensource)
+### ![Dailydotdev](https://img.shields.io/badge/Dailydotdev-000?style=flat&logo=Dailydotdev&logoColor=white) [Daily.dev](https://app.daily.dev/zeroopensource)
 
 Check out our curated content for developers
 
@@ -100,7 +100,7 @@ Support our open source work through Patreon
 
 ---
 
-### ![Buymeacoffee](https://img.shields.io/badge/Buymeacoffee-000?style=flat&logo=Buymeacoffee&logoColor=white) [Bmc](https://buymeacoffee.com/zeroopensource)
+### ![Buymeacoffee](https://img.shields.io/badge/Buymeacoffee-000?style=flat&logo=Buymeacoffee&logoColor=white) [Buy Me a Coffee](https://buymeacoffee.com/zeroopensource)
 
 Show your support by buying us a coffee
 

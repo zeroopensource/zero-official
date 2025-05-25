@@ -1,7 +1,11 @@
 import { writeFileSync } from 'fs'
 import { ZERO_OFFICIAL_LINKS, Link } from '@zeroopensource/zero-official'
 
-function getMarkdownIcon(icon: string): string {
+function getMarkdownIcon(icon?: string): string {
+  if (!icon) {
+    return ''
+  }
+
   if (icon.startsWith('http')) {
     return `![icon](${icon})`
   }
