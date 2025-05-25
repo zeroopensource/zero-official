@@ -6,7 +6,7 @@ type Link = {
   disabled?: boolean
 }
 
-export const links: Link[] = [
+export const ZERO_OFFICIAL_LINKS: Link[] = [
   {
     name: 'ZERO_WEBSITE',
     url: 'https://zeroopensource.org/',
