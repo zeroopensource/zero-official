@@ -26,7 +26,7 @@ function titleCase(key: string): string {
 }
 
 function generateReadme(links: { [key: string]: Link }): string {
-  const header = `# 🌐 Zero Open Source Official Links
+  const header = `# zero-official
 
 Welcome to the official resources for Zero Open Source. Explore our platforms and community links below.
 

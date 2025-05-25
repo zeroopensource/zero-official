@@ -1,4 +1,4 @@
-# 🌐 Zero Open Source Official Links
+# zero-official
 
 Welcome to the official resources for Zero Open Source. Explore our platforms and community links below.
 
