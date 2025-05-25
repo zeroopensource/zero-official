@@ -18,6 +18,8 @@ function getMarkdownIcon(icon?: string): string {
 function generateReadme(links: { [key: string]: Link }): string {
   const header = `# zero-official
 
+Zero Open Source™ (aka ZeroOpenSource™; Zero) - Official Resources
+
 Welcome to the official resources for Zero Open Source. Explore our platforms and community links below.
 
 ---
