@@ -11,7 +11,8 @@
     "version": "changeset version",
     "release": "pnpm run build && changeset publish",
     "prepack": "turbo run prepack",
-    "zero-id": "zero-id"
+    "zero-id": "zero-id",
+    "generate-readme": ""
   },
   "devDependencies": {
     "cpx": "1.5.0",
@@ -22,7 +23,8 @@
     "@types/node": "22.15.20",
     "prettier": "^3.5.3",
     "prettier-plugin-tailwindcss": "^0.6.11",
-    "turbo": "^2.5.2"
+    "turbo": "^2.5.2",
+    "@zeroopensource/zero-official": "workspace:^"
   },
   "packageManager": "pnpm@10.11.0",
   "engines": {
