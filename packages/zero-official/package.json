@@ -1,0 +1,23 @@
+{
+  "name": "@zeroopensource/zero-official",
+  "version": "0.0.0",
+  "description": "",
+  "type": "module",
+  "main": "./dist/zero-official.cjs",
+  "module": "./dist/zero-official.js",
+  "types": "./dist/zero-official.d.ts",
+  "bin": {
+    "zero": "./bin/cli-proxy.cjs"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "prepack": "cpx ../../README.md ./",
+    "lint": "cross-env TIMING=1 eslint \"**/*.ts*\"",
+    "build": "tsup"
+  },
+  "dependencies": {
+    "commander": "^10.0.0"
+  }
+}
