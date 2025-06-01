@@ -6,7 +6,7 @@ Welcome to the official resources for Zero Open Source. Explore our platforms an
 
 ---
 
-### [ZeroOpenSource.org](https://zeroopensource.org/)
+###  [ZeroOpenSource.org](https://zeroopensource.org/)
 
 Official website of Zero Open Source - Explore our projects and mission
 
@@ -105,3 +105,4 @@ Support our open source work through Patreon
 ### ![Buymeacoffee](https://img.shields.io/badge/Buymeacoffee-000?style=flat&logo=Buymeacoffee&logoColor=white) [Buy Me a Coffee](https://buymeacoffee.com/zeroopensource)
 
 Show your support by buying us a coffee
+
