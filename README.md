@@ -86,7 +86,7 @@ Read our technical blog posts and community articles
 
 ### ![Producthunt](https://img.shields.io/badge/Producthunt-000?style=flat&logo=Producthunt&logoColor=white) [Product Hunt](https://www.producthunt.com/@zeroopensource)
 
-
+Discover and upvote our latest launches and projects
 
 ---
 

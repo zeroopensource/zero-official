@@ -94,7 +94,7 @@ export const ZERO_OFFICIAL_LINKS: { [key: string]: Link } = {
   ZERO_PRODUCTHUNT: {
     name: 'Product Hunt',
     url: 'https://www.producthunt.com/@zeroopensource',
-    description: '',
+    description: 'Discover and upvote our latest launches and projects',
     icon: 'SiProducthunt',
   },
   ZERO_PATREON: {
