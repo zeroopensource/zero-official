@@ -12,27 +12,15 @@ Official website of Zero Open Source - Explore our projects and mission
 
 ---
 
-### ![Discord](https://img.shields.io/badge/Discord-000?style=flat&logo=Discord&logoColor=white) [Discord](https://discord.gg/2a5HcmxvgC)
-
-Join our community Discord server for discussions and support
-
----
-
 ### ![Github](https://img.shields.io/badge/Github-000?style=flat&logo=Github&logoColor=white) [Github](https://github.com/zeroopensource)
 
 Browse our open source repositories and contribute to our projects
 
 ---
 
-### ![Huggingface](https://img.shields.io/badge/Huggingface-000?style=flat&logo=Huggingface&logoColor=white) [Hugging Face](https://huggingface.co/ZeroOpenSource)
+### ![Discord](https://img.shields.io/badge/Discord-000?style=flat&logo=Discord&logoColor=white) [Discord](https://discord.gg/2a5HcmxvgC)
 
-Explore our AI models and datasets on Hugging Face
-
----
-
-### ![Youtube](https://img.shields.io/badge/Youtube-000?style=flat&logo=Youtube&logoColor=white) [Youtube](https://www.youtube.com/@ZeroOpenSource)
-
-Watch our tutorials, project demos, and community highlights
+Join our community Discord server for discussions and support
 
 ---
 
@@ -96,6 +84,12 @@ Read our technical blog posts and community articles
 
 ---
 
+### ![Producthunt](https://img.shields.io/badge/Producthunt-000?style=flat&logo=Producthunt&logoColor=white) [Product Hunt](https://www.producthunt.com/@zeroopensource)
+
+
+
+---
+
 ### ![Patreon](https://img.shields.io/badge/Patreon-000?style=flat&logo=Patreon&logoColor=white) [Patreon](https://www.patreon.com/c/ZeroOpenSource)
 
 Support our open source work through Patreon
@@ -105,4 +99,16 @@ Support our open source work through Patreon
 ### ![Buymeacoffee](https://img.shields.io/badge/Buymeacoffee-000?style=flat&logo=Buymeacoffee&logoColor=white) [Buy Me a Coffee](https://buymeacoffee.com/zeroopensource)
 
 Show your support by buying us a coffee
+
+---
+
+### ![Huggingface](https://img.shields.io/badge/Huggingface-000?style=flat&logo=Huggingface&logoColor=white) [Hugging Face](https://huggingface.co/ZeroOpenSource)
+
+Explore our AI models and datasets on Hugging Face
+
+---
+
+### ![Youtube](https://img.shields.io/badge/Youtube-000?style=flat&logo=Youtube&logoColor=white) [Youtube](https://www.youtube.com/@ZeroOpenSource)
+
+Watch our tutorials, project demos, and community highlights
 
