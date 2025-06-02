@@ -14,13 +14,6 @@ export const ZERO_OFFICIAL_LINKS: { [key: string]: Link } = {
       'Official website of Zero Open Source - Explore our projects and mission',
     // icon: 'https://zeroopensource.org/favicon.ico',
   },
-  ZERO_DISCORD: {
-    name: 'Discord',
-    url: 'https://discord.gg/2a5HcmxvgC',
-    description:
-      'Join our community Discord server for discussions and support',
-    icon: 'SiDiscord',
-  },
   ZERO_GITHUB: {
     name: 'Github',
     url: 'https://github.com/zeroopensource',
@@ -28,17 +21,12 @@ export const ZERO_OFFICIAL_LINKS: { [key: string]: Link } = {
       'Browse our open source repositories and contribute to our projects',
     icon: 'SiGithub',
   },
-  ZERO_HUGGINGFACE: {
-    name: 'Hugging Face',
-    url: 'https://huggingface.co/ZeroOpenSource',
-    description: 'Explore our AI models and datasets on Hugging Face',
-    icon: 'SiHuggingface',
-  },
-  ZERO_YOUTUBE: {
-    name: 'Youtube',
-    url: 'https://www.youtube.com/@ZeroOpenSource',
-    description: 'Watch our tutorials, project demos, and community highlights',
-    icon: 'SiYoutube',
+  ZERO_DISCORD: {
+    name: 'Discord',
+    url: 'https://discord.gg/2a5HcmxvgC',
+    description:
+      'Join our community Discord server for discussions and support',
+    icon: 'SiDiscord',
   },
   ZERO_XTWITTER: {
     name: 'X (Twitter)',
@@ -103,6 +91,12 @@ export const ZERO_OFFICIAL_LINKS: { [key: string]: Link } = {
     description: 'Read our technical blog posts and community articles',
     icon: 'SiHashnode',
   },
+  ZERO_PRODUCTHUNT: {
+    name: 'Product Hunt',
+    url: 'https://www.producthunt.com/@zeroopensource',
+    description: 'Discover and upvote our latest launches and projects',
+    icon: 'SiProducthunt',
+  },
   ZERO_PATREON: {
     name: 'Patreon',
     url: 'https://www.patreon.com/c/ZeroOpenSource',
@@ -115,6 +109,19 @@ export const ZERO_OFFICIAL_LINKS: { [key: string]: Link } = {
     description: 'Show your support by buying us a coffee',
     icon: 'SiBuymeacoffee',
   },
+  ZERO_HUGGINGFACE: {
+    name: 'Hugging Face',
+    url: 'https://huggingface.co/ZeroOpenSource',
+    description: 'Explore our AI models and datasets on Hugging Face',
+    icon: 'SiHuggingface',
+  },
+  ZERO_YOUTUBE: {
+    name: 'Youtube',
+    url: 'https://www.youtube.com/@ZeroOpenSource',
+    description: 'Watch our tutorials, project demos, and community highlights',
+    icon: 'SiYoutube',
+  },
+
   // ZERO_LINKTREE: {
   //   url: 'https://linktr.ee/zeroopensource',
   //   description: 'Find all our important links and resources in one place',

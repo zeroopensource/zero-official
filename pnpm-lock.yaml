@@ -17,6 +17,9 @@ importers:
       '@types/node':
         specifier: 22.15.20
         version: 22.15.20
+      '@zeroopensource/zero-cli':
+        specifier: latest
+        version: 0.0.2
       '@zeroopensource/zero-official':
         specifier: workspace:^
         version: link:packages/zero-official
@@ -431,6 +434,10 @@ packages:
   '@types/node@22.15.20':
     resolution: {integrity: sha512-A6BohGFRGHAscJsTslDCA9JG7qSJr/DWUvrvY8yi9IgnGtMxCyat7vvQ//MFa0DnLsyuS3wYTpLdw4Hf+Q5JXw==}
 
+  '@zeroopensource/zero-cli@0.0.2':
+    resolution: {integrity: sha512-3cN0MEFT1noX3ne0kpZHjwKLsds6P0gPllrtvNdrbIBAxWf5ZDsV1EA+SqGf9neVQEm/keqMzy92/CS1Vjgh0w==}
+    hasBin: true
+
   acorn-walk@8.3.4:
     resolution: {integrity: sha512-ueEepnujpqee2o5aIYnvHU6C0A42MNdsIDeqy5BydrkuC5R1ZuUFnm27EeFJGoEHJQgn3uleRvmTXaJgfXbt4g==}
     engines: {node: '>=0.4.0'}
@@ -593,6 +600,10 @@ packages:
 
   color-name@1.1.4:
     resolution: {integrity: sha512-dOy+3AuW3a2wNbZHIuMZpTcgjGuLU/uBL/ubcZF9OXbDo8ff4O8yVp5Bf0efS8uEoYo5q4Fx7dY9OgQGXgAsQA==}
+
+  commander@14.0.0:
+    resolution: {integrity: sha512-2uM9rYjPvyq39NwLRqaiLtWHyDC1FvryJDa2ATTVims5YAS4PupsEQsDvP14FqhFr0P49CYDugi59xaxJlTXRA==}
+    engines: {node: '>=20'}
 
   commander@4.1.1:
     resolution: {integrity: sha512-NOKm8xhkzAjzFx8B2v5OAHT+u5pRQc2UCa2Vq9jYL/31o2wi9mxBA7LIFs3sV5VSC49z6pEhfbMULvShKj26WA==}
@@ -2127,6 +2138,10 @@ snapshots:
     dependencies:
       undici-types: 6.21.0
 
+  '@zeroopensource/zero-cli@0.0.2':
+    dependencies:
+      commander: 14.0.0
+
   acorn-walk@8.3.4:
     dependencies:
       acorn: 8.14.1
@@ -2301,6 +2316,8 @@ snapshots:
       color-name: 1.1.4
 
   color-name@1.1.4: {}
+
+  commander@14.0.0: {}
 
   commander@4.1.1: {}
 

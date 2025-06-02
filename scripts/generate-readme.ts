@@ -11,7 +11,7 @@ function getMarkdownIcon(icon?: string): string {
   }
 
   // fallback for icon names (e.g., SiGithub)
-  const iconName = icon.replace(/^Si/, '')
+  const iconName = icon.replace(/^Si/, '').replace(/dot/i, '.')
   return `![${iconName}](https://img.shields.io/badge/${iconName}-000?style=flat&logo=${iconName}&logoColor=white)`
 }
 
