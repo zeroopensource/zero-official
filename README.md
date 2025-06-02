@@ -66,13 +66,13 @@ Read our in-depth articles and technical blog posts
 
 ---
 
-### ![Devdotto](https://img.shields.io/badge/Devdotto-000?style=flat&logo=Devdotto&logoColor=white) [Dev.to](https://dev.to/zeroopensource)
+### ![Dev.to](https://img.shields.io/badge/Dev.to-000?style=flat&logo=Dev.to&logoColor=white) [Dev.to](https://dev.to/zeroopensource)
 
 Follow our developer-focused content and tutorials
 
 ---
 
-### ![Dailydotdev](https://img.shields.io/badge/Dailydotdev-000?style=flat&logo=Dailydotdev&logoColor=white) [Daily.dev](https://app.daily.dev/zeroopensource)
+### ![Daily.dev](https://img.shields.io/badge/Daily.dev-000?style=flat&logo=Daily.dev&logoColor=white) [Daily.dev](https://app.daily.dev/zeroopensource)
 
 Check out our curated content for developers
 
