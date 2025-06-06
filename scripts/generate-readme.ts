@@ -1,7 +1,19 @@
 import { writeFileSync } from 'fs'
 import { ZERO_OFFICIAL_LINKS, Link } from '@zeroopensource/zero-official'
 
-function getMarkdownIcon(icon?: string): string {
+function getMarkdownIcon({
+  icon,
+  shieldsIoUrl,
+  name,
+}: {
+  icon?: string
+  shieldsIoUrl?: string
+  name?: string
+}): string {
+  if (shieldsIoUrl) {
+    return `![${name}](${shieldsIoUrl})`
+  }
+
   if (!icon) {
     return ''
   }
@@ -27,8 +39,8 @@ Welcome to the official resources for Zero Open Source. Explore our platforms an
 `
 
   const body = Object.entries(links)
-    .map(([key, { url, description, icon, name }]) => {
-      const iconMd = getMarkdownIcon(icon)
+    .map(([key, { url, description, icon, name, shieldsIoUrl }]) => {
+      const iconMd = getMarkdownIcon({ icon, shieldsIoUrl, name })
       return `### ${iconMd} [${name}](${url})\n\n${description}\n`
     })
     .join('\n---\n\n')
