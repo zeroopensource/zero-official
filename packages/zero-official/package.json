@@ -1,6 +1,6 @@
 {
   "name": "@zeroopensource/zero-official",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Official resources for ZeroOpenSource",
   "type": "module",
   "main": "./dist/zero-official.cjs",

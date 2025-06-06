@@ -1,5 +1,11 @@
 # @zeroopensource/zero-official
 
+## 0.0.3
+
+### Patch Changes
+
+- [#7](https://github.com/zeroopensource/zero-official/pull/7) [`4ad2beb`](https://github.com/zeroopensource/zero-official/commit/4ad2beb8c2c696ecdb5649a66ea88240ee69c75e) Thanks [@jigz](https://github.com/jigz)! - Add ZERO_SHIELDSIO_URL
+
 ## 0.0.2
 
 ### Patch Changes
