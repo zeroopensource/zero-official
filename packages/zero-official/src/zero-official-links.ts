@@ -16,14 +16,12 @@ export const ZERO_OFFICIAL_LINKS: { [key: string]: Link } = {
     url: 'https://zeroopensource.org/',
     description:
       'Official website of Zero Open Source - Explore our projects and mission',
-    // icon: 'https://zeroopensource.org/favicon.ico',
     shieldsIoUrl: ZERO_SHIELDSIO_URL,
   },
   ZERO_OFFICIAL: {
     name: 'Zero-Official',
     url: 'https://github.com/zeroopensource/zero-official',
     description: `${packagejson.description}`,
-    // icon: 'https://zeroopensource.org/favicon.ico',
     shieldsIoUrl: ZERO_SHIELDSIO_URL,
   },
   ZERO_GITHUB: {
