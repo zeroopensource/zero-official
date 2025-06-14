@@ -30,7 +30,7 @@
     "@zeroopensource/zero-official": "workspace:^",
     "@zeroopensource/zero-cli": "latest"
   },
-  "packageManager": "pnpm@10.11.0",
+  "packageManager": "pnpm@10.12.1",
   "engines": {
     "node": ">=18"
   }
